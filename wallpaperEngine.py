@@ -10,7 +10,7 @@ total_page = 10
 number_per_page = 10
 
 filename="review.csv"
-f = open(filename, "w")
+f = open(filename, "w", encoding="utf-8")
 
 for p in range(0, total_page):
 
