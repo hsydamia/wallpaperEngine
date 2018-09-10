@@ -8,7 +8,7 @@ import re
 offset = 0
 total_page = 10
 number_per_page = 10
-asdasdasdasd
+
 filename="review.csv"
 f = open(filename, "w", encoding="utf-8")
 
